@@ -1,0 +1,16 @@
+.App {
+    margin: 0;
+    padding: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    min-height: 100vh;
+}
+
+.dark {
+    background: #282c34;
+    color: white;
+}
+
+.contrast {
+    font-size: 1.5em;
+}
